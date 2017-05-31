@@ -3,12 +3,10 @@ layout: default
 title: About
 ---
 # About me
-<p class="message">
-  Hey there!
-</p>
 
-Software developer based in Athens, Greece
+CS student and developer based in Athens, Greece
 
-When I’m not in front of a computer, i enjoy.. oh wait. What was i thinking.
+Occupied with GSoC '17 for this summer. 
+That's also the purpose of this blog :)
 
-`"Apps this good, who's got time to make friends?"`
+RTFM
