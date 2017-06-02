@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Disaster has struck"
-date:   2017-05-31 
+date:   2017-06-02 
 ---
 
 Finished with NOKIA and ready to start working full-time on my Kawa project
