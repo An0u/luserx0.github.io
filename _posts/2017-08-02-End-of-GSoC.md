@@ -41,11 +41,9 @@ Sorry, if that's the case.
 The fact that my GSoC mentor called himself "my boss". He actually wrote to me
 per se:
 
-'''
-It is foolish to write this way to your "boss" (while I'm not your
-boss, I stand in a similar position of guidance and authority) unless
-you *want* to be fired.  So my conclusion is you don't care.
-'''
+
+> It is foolish to write this way to your "boss" (while I'm not your boss, I stand in a similar position of guidance and authority) unless you *want* to be fired.  So my conclusion is you don't care.
+
 
 ## What happened after that?  
 
