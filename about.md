@@ -4,10 +4,11 @@ title: About
 ---
 # About me
 
-CS student and developer based in Athens, Greece
+Software Engineer, Unixoid SysAdmin, Open Source Fanatic, Thinker.
 
-Occupied with GSoC '17 for this summer. 
-That's also the purpose of this blog :)
+Currently on GSoC '18.
 
-lusers of the world unite
-RTFM
+This is my personal website. 
+
+*luserz of the world unite
+### RTFM
