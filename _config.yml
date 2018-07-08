@@ -6,8 +6,7 @@ permalink:        pretty
 
 # Setup
 title:            Harry Pantazis
-tagline:          'Awesome'
-description:      'Software Engineer | Unixoid SysAdmin'
+description:      'Open Source Software Engineer'
 baseurl:
 
 author:
@@ -17,7 +16,7 @@ author:
   github:         'https://github.com/luserx0'
 
 
-paginate:         3
+paginate:         1
 
 # Custom vars
 github:
