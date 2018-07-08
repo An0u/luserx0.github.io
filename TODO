@@ -1,21 +1,19 @@
 1) Add HTTPS Support for site
 2) Create:
-	a) A frontend page
-	b) A blog containing GSoC '17 posts
-	c) A blog containing GSoC '18 posts
+	a) A frontend page with all the info
+	b) A link to blog containing GSoC '17 posts
+	c) A link to blog containing GSoC '18 posts
 		!footnote ~-> Check Dupinion's structure of topics
 
 3) Experiment with the themes
-	- Lanyon
 	- Minimal-Mistakes
 	- Poole
-	- monopati
-	- CSSWizardry
 	- JekyllNow
+	IMPORTANT: Read Jekyll's documentation
 
-4) Add a nice Icon
-5) Update:
+4) Add a nice Icon  -- CHECK
+5) Update:		--AFTER THEME SELECTION
 	a) Credits 
 	b) About
 
-6) Add awesome frontend by denis smirnov as seen on Nick Renieris' blog
+6) Add awesome frontend by denis smirnov as seen on Nick Renieris' blog -- IMPORTANT
