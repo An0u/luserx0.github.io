@@ -11,9 +11,14 @@
 	- JekyllNow
 	IMPORTANT: Read Jekyll's documentation
 
-4) Add a nice Icon  -- CHECK
+4) Correct existing posts and adjust font-size
+
 5) Update:		--AFTER THEME SELECTION
 	a) Credits 
 	b) About
 
 6) Add awesome frontend by denis smirnov as seen on Nick Renieris' blog -- IMPORTANT
+
+IMPORTANT:
+* If you create a file with an .html or .md extension in the root of your Jekyll website, it will be treated as a static page. 
+  For example, about.md would be outputted as www.mysite.com/about
