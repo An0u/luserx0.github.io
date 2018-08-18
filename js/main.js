@@ -18,11 +18,11 @@ $(window).load(function() {
         });
         MESSAGES.push({
             delay: 2600,
-            text: ' —  Black Box Penetration Tester'
+            text: ' —  Black Box Penetration Tester;'
         });
         MESSAGES.push({
             delay: 3200,
-            text: ' —  Freelancer/Blogger/HSGR Fellow.'
+            text: ' —  Freelancer/Blogger/<a href=\"https://www.hackerspace.gr/\">"HSGR Fellow</a>.'
         });
         MESSAGES.push({
             delay: 4800,
