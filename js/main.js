@@ -10,7 +10,7 @@ $(window).load(function() {
 
         MESSAGES.push({
             delay: 800,
-            text: ' —  Unix/Lunix System Administrator;'
+            text: ' —  Unix/Linux System Administrator;'
         });
         MESSAGES.push({
             delay: 1800,
@@ -22,7 +22,7 @@ $(window).load(function() {
         });
         MESSAGES.push({
             delay: 3200,
-            text: ' —  Freelancer/Blogger/<a href=\"https://www.hackerspace.gr/\">"HSGR Fellow</a>.'
+            text: ' —  Freelancer/Blogger/<a href=\"https://www.hackerspace.gr/\">HSGR Fellow</a>.'
         });
         MESSAGES.push({
             delay: 4800,
