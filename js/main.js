@@ -5,7 +5,7 @@ $(window).load(function() {
         MESSAGES = [];
         MESSAGES.push({
             delay: 0,
-            text: 'Harry "luserx0" Pantazis'
+            text: 'Harry ~luserx0~ Pantazis'
         });
 
         MESSAGES.push({
@@ -14,7 +14,7 @@ $(window).load(function() {
         });
         MESSAGES.push({
             delay: 1800,
-            text: ' —  Open Source Advocate/Engineer/Contributor;'
+            text: ' —  Open Source Engineer/Contributor/Advocate;'
         });
         MESSAGES.push({
             delay: 2600,
